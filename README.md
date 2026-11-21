@@ -9,9 +9,9 @@ constructs and Pandas, it cleans missing and duplicate entries, labels stay tier
 summarizes outcomes, and saves cleaned outputs without visual charts.
 
 **2. Objectives of the Project**
-To understand how Python works with tabular hospital datasets.
-To load and process CSV files using Pandas and core Python structures.
-To clean duplicate rows and missing values in numeric and text columns.
+*To understand how Python works with tabular hospital datasets.
+*To load and process CSV files using Pandas and core Python structures.
+*To clean duplicate rows and missing values in numeric and text columns.
 To classify stay duration and risk levels using functions, loops, and conditionals.
 To understand clinical markers such as Bilirubin and Albumin in recovery data.
 To export cleaned records and summary results to text and CSV files.
